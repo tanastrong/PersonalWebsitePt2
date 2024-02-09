@@ -1,0 +1,24 @@
+header {background-color: darksalmon;
+        position: absolute;
+        padding: 20px;
+        top: 0px;
+        width: 1920px;
+        height: 50px;
+        right: 0px;
+        left: 0px;}
+
+
+
+
+body {background-color:seashell;}
+h2 {position: absolute;
+    color:seashell;
+    top: 5.5px;
+    font-family:'Shrikhand';}
+ul {font-family:'Josefin Sans';
+    color:burlywood;
+    position: absolute;
+    right: 0px;
+    left: 1200px }
+
+
